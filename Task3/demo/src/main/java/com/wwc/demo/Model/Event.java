@@ -16,7 +16,6 @@ public class Event {
         this.location = location;
     }
 
-    //getter and setter for each and every line
     public int getId() {
         return id;
     }
